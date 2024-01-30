@@ -10,7 +10,7 @@ I've written this framework in BDD style using common patterns as Page Object an
 ## Test Example
 
 ```typescript
-test('DTC_008_Should_Set_All_Cookies', async () => {
+test('=== YOUR TEST NAME ===', async () => {
   await user.onMainPage.selectCookies('All');
   await user.onMainPage.verifyCookiesIs('All');
 });
