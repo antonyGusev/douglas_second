@@ -31,6 +31,17 @@ When preconditions are met please clone the repository and run "npm install" com
 npm install
 ```
 
+After installing necessary things, create .env file to store env variables for local running with such variables:
+
+```bash
+RUN_ENV=https://www.douglas.de./
+WORKERS=2
+RETRIES=1
+BROWSERS=modern  # modern, chromium, firefox, webkit, mobile, mobile_chrome, mobile_safari, branded, branded_chrome, branded_edge, all
+HEADLESS=false   # true, false
+TEST_TIMEOUT=120000
+```
+
 That's it. You can run the tests.
 
 ## Usage
@@ -60,17 +71,4 @@ npm run report
 # Deleting reports
 npm run delete:report
 
-```
-
-## Notice
-
-After installing necessary things, create .env file to store env variables for local running with such variables:
-
-```bash
-RUN_ENV=https://www.douglas.de./
-WORKERS=2
-RETRIES=1
-BROWSERS=modern  # modern, chromium, firefox, webkit, mobile, mobile_chrome, mobile_safari, branded, branded_chrome, branded_edge, all
-HEADLESS=false   # true, false
-TEST_TIMEOUT=120000
 ```
