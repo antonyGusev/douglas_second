@@ -1,0 +1,56 @@
+[
+    {
+        "testID": 1,
+        "testName": "\"marke\": [\"Armani\"]; \"produktart\": [\"Eau de Parfum\"]; \"furWen\": [\"Weiblich\"]; \"highlights\": [\"Sale\"]",
+        "fixture": {
+            "marke": [
+                "Armani"
+            ],
+            "produktart": [
+                "Eau de Parfum"
+            ],
+            "furWen": [
+                "Weiblich"
+            ],
+            "highlights": [
+                "Sale"
+            ]
+        }
+    },
+    {
+        "testID": 2,
+        "testName": "\"marke\": [\"Carner Barcelona\"]; \"produktart\": [\"Eau de Parfum\"]; \"furWen\": [\"Unisex\"]; \"highlights\": [\"NEU\"]",
+        "fixture": {
+            "marke": [
+                "Carner Barcelona"
+            ],
+            "produktart": [
+                "Eau de Parfum"
+            ],
+            "furWen": [
+                "Unisex"
+            ],
+            "highlights": [
+                "NEU"
+            ]
+        }
+    },
+    {
+        "testID": 3,
+        "testName": "\"marke\": [\"Annayake\"]; \"produktart\": [\"Eau de Toilette\"]; \"furWen\": [\"Männlich\"]; \"highlights\": [\"Limitiert\"]",
+        "fixture": {
+            "marke": [
+                "Annayake"
+            ],
+            "produktart": [
+                "Eau de Toilette"
+            ],
+            "furWen": [
+                "Männlich"
+            ],
+            "highlights": [
+                "Limitiert"
+            ]
+        }
+    }
+]

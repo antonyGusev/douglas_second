@@ -1,0 +1,17 @@
+export enum TIMEOUTS {
+  '0.5_SECOND' = 500,
+  '1_SECOND' = 1000,
+  '2_SECONDS' = 2000,
+  '3_SECONDS' = 3000,
+  '5_SECONDS' = 5000,
+  '10_SECONDS' = 10 * 1000,
+  '15_SECONDS' = 15 * 1000,
+  '20_SECONDS' = 20 * 1000,
+  '25_SECONDS' = 25 * 1000,
+  '30_SECONDS' = 30 * 1000,
+  '45_SECONDS' = 45 * 1000,
+  '60_SECONDS' = 60 * 1000,
+  '90_SECONDS' = 90 * 1000,
+  '120_SECONDS' = 120 * 1000,
+  '180_SECONDS' = 180 * 1000,
+};

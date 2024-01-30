@@ -1,0 +1,2028 @@
+{
+    "Produktart": {
+        "Eau de Parfum": {
+            "quantity": "(3205)"
+        },
+        "Eau de Toilette": {
+            "quantity": "(1230)"
+        },
+        "Parfum": {
+            "quantity": "(584)"
+        },
+        "Duftset": {
+            "quantity": "(408)"
+        },
+        "Eau de Cologne": {
+            "quantity": "(182)"
+        },
+        "After Shave": {
+            "quantity": "(139)"
+        },
+        "Deodorant": {
+            "quantity": "(107)"
+        },
+        "Duschgel": {
+            "quantity": "(80)"
+        },
+        "Bodylotion": {
+            "quantity": "(78)"
+        },
+        "Bodyspray": {
+            "quantity": "(69)"
+        },
+        "Haarparfum": {
+            "quantity": "(51)"
+        },
+        "Eau Fraiche": {
+            "quantity": "(26)"
+        },
+        "Parfümzerstäuber": {
+            "quantity": "(17)"
+        },
+        "Körperpflegeset": {
+            "quantity": "(17)"
+        },
+        "Körperöl": {
+            "quantity": "(10)"
+        },
+        "Adventskalender": {
+            "quantity": "(10)"
+        },
+        "Parfümierte Duschpflege": {
+            "quantity": "(9)"
+        },
+        "Körpercreme": {
+            "quantity": "(7)"
+        },
+        "Parfümiertes Deodorant": {
+            "quantity": "(7)"
+        },
+        "Parfümierte Körperpflege": {
+            "quantity": "(4)"
+        },
+        "Handcreme": {
+            "quantity": "(3)"
+        },
+        "Reisetasche": {
+            "quantity": "(3)"
+        },
+        "Seife": {
+            "quantity": "(3)"
+        },
+        "Gesichtscreme": {
+            "quantity": "(1)"
+        },
+        "Kerze": {
+            "quantity": "(2)"
+        },
+        "Anti-Aging Serum": {
+            "quantity": "(1)"
+        },
+        "Desinfektionsmittel": {
+            "quantity": "(1)"
+        },
+        "Dose": {
+            "quantity": "(1)"
+        },
+        "Duschschaum": {
+            "quantity": "(1)"
+        },
+        "Etui": {
+            "quantity": "(1)"
+        },
+        "Gesichtspflegeset": {
+            "quantity": "(1)"
+        },
+        "Gesichtswasser": {
+            "quantity": "(1)"
+        },
+        "Hair & Body Wash": {
+            "quantity": "(1)"
+        },
+        "Hornhautentferner": {
+            "quantity": "(1)"
+        },
+        "Insektenschutzmittel": {
+            "quantity": "(1)"
+        },
+        "Körperseife": {
+            "quantity": "(1)"
+        },
+        "Nachtcreme": {
+            "quantity": "(1)"
+        },
+        "Nagelzange": {
+            "quantity": "(1)"
+        },
+        "Rasierer": {
+            "quantity": "(1)"
+        },
+        "Reiseset": {
+            "quantity": "(1)"
+        },
+        "Shampoo": {
+            "quantity": "(1)"
+        }
+    },
+    "Marke": {
+        "4711": {
+            "quantity": "(41)"
+        },
+        "100BON": {
+            "quantity": "(4)"
+        },
+        "4711 Acqua Colonia": {
+            "quantity": "(26)"
+        },
+        "8X4": {
+            "quantity": "(1)"
+        },
+        "Abercrombie & Fitch": {
+            "quantity": "(21)"
+        },
+        "Above Average Humanity": {
+            "quantity": "(3)"
+        },
+        "Absolument Parfumeur": {
+            "quantity": "(5)"
+        },
+        "Acca Kappa": {
+            "quantity": "(14)"
+        },
+        "ACCENDIS": {
+            "quantity": "(4)"
+        },
+        "Acorelle": {
+            "quantity": "(34)"
+        },
+        "Acqua Alpes": {
+            "quantity": "(7)"
+        },
+        "Acqua del Garda": {
+            "quantity": "(1)"
+        },
+        "ACQUA DI BAVIERA": {
+            "quantity": "(1)"
+        },
+        "Acqua di Parma": {
+            "quantity": "(38)"
+        },
+        "Acqua di Portofino": {
+            "quantity": "(1)"
+        },
+        "Acquaspoleto": {
+            "quantity": "(2)"
+        },
+        "Addison Rae": {
+            "quantity": "(3)"
+        },
+        "adidas Originals": {
+            "quantity": "(1)"
+        },
+        "adopt": {
+            "quantity": "(51)"
+        },
+        "AEMIUM": {
+            "quantity": "(7)"
+        },
+        "Aesop": {
+            "quantity": "(7)"
+        },
+        "Aether": {
+            "quantity": "(12)"
+        },
+        "Affinessence": {
+            "quantity": "(4)"
+        },
+        "Agua de Baleares": {
+            "quantity": "(13)"
+        },
+        "AHAVA": {
+            "quantity": "(1)"
+        },
+        "Aigner": {
+            "quantity": "(23)"
+        },
+        "Aimee de Mars": {
+            "quantity": "(13)"
+        },
+        "Aire Sevilla": {
+            "quantity": "(9)"
+        },
+        "Alex Simone": {
+            "quantity": "(11)"
+        },
+        "ALLPHARM": {
+            "quantity": "(1)"
+        },
+        "ALLSAINTS": {
+            "quantity": "(1)"
+        },
+        "Alvarez Gomez": {
+            "quantity": "(7)"
+        },
+        "Alyssa Ashley": {
+            "quantity": "(45)"
+        },
+        "Amouage": {
+            "quantity": "(40)"
+        },
+        "ANFAS": {
+            "quantity": "(5)"
+        },
+        "Annayake": {
+            "quantity": "(31)"
+        },
+        "Annick Goutal": {
+            "quantity": "(24)"
+        },
+        "Anthony": {
+            "quantity": "(2)"
+        },
+        "Antiqua Firenze": {
+            "quantity": "(9)"
+        },
+        "Apricot": {
+            "quantity": "(1)"
+        },
+        "Aramis": {
+            "quantity": "(3)"
+        },
+        "Ariana Grande": {
+            "quantity": "(19)"
+        },
+        "Armani": {
+            "quantity": "(76)"
+        },
+        "Arquiste": {
+            "quantity": "(2)"
+        },
+        "Art de Parfum": {
+            "quantity": "(5)"
+        },
+        "ARTDECO": {
+            "quantity": "(1)"
+        },
+        "ASABI": {
+            "quantity": "(4)"
+        },
+        "Atelier Oblique": {
+            "quantity": "(6)"
+        },
+        "Atkinsons": {
+            "quantity": "(24)"
+        },
+        "Au Pays de la Fleur d'Oranger": {
+            "quantity": "(1)"
+        },
+        "Augustinus Bader": {
+            "quantity": "(1)"
+        },
+        "Avant Skincare": {
+            "quantity": "(1)"
+        },
+        "Azzaro": {
+            "quantity": "(16)"
+        },
+        "ba313-default": {
+            "quantity": "(1)"
+        },
+        "BABOR": {
+            "quantity": "(1)"
+        },
+        "Baldessarini": {
+            "quantity": "(12)"
+        },
+        "BALR.": {
+            "quantity": "(23)"
+        },
+        "Barber Pro": {
+            "quantity": "(2)"
+        },
+        "Baxter of California": {
+            "quantity": "(2)"
+        },
+        "bc364-default": {
+            "quantity": "(3)"
+        },
+        "bc406-default": {
+            "quantity": "(1)"
+        },
+        "bc855-default": {
+            "quantity": "(1)"
+        },
+        "bc965-default": {
+            "quantity": "(1)"
+        },
+        "Benamôr": {
+            "quantity": "(4)"
+        },
+        "Bench.": {
+            "quantity": "(10)"
+        },
+        "benecos": {
+            "quantity": "(1)"
+        },
+        "Bentley": {
+            "quantity": "(10)"
+        },
+        "Berdoues": {
+            "quantity": "(24)"
+        },
+        "BETTER BE BOLD": {
+            "quantity": "(1)"
+        },
+        "Bettina Barty": {
+            "quantity": "(2)"
+        },
+        "Betty Barclay": {
+            "quantity": "(31)"
+        },
+        "Bijan": {
+            "quantity": "(1)"
+        },
+        "Bill Blass": {
+            "quantity": "(1)"
+        },
+        "Biotherm": {
+            "quantity": "(12)"
+        },
+        "Biotherm Homme": {
+            "quantity": "(2)"
+        },
+        "Biotulin": {
+            "quantity": "(1)"
+        },
+        "Birkholz": {
+            "quantity": "(56)"
+        },
+        "Björk & Berries": {
+            "quantity": "(2)"
+        },
+        "Blauer": {
+            "quantity": "(7)"
+        },
+        "BLEND OUD": {
+            "quantity": "(2)"
+        },
+        "Blumarine": {
+            "quantity": "(5)"
+        },
+        "BMRVLS": {
+            "quantity": "(14)"
+        },
+        "Boellis 1924": {
+            "quantity": "(1)"
+        },
+        "Bohoboco": {
+            "quantity": "(12)"
+        },
+        "Bois 1920": {
+            "quantity": "(18)"
+        },
+        "Bon Parfumeur": {
+            "quantity": "(35)"
+        },
+        "Bond No. 9": {
+            "quantity": "(28)"
+        },
+        "Bondi Wash": {
+            "quantity": "(3)"
+        },
+        "BORRELLI": {
+            "quantity": "(2)"
+        },
+        "Bottega Veneta": {
+            "quantity": "(1)"
+        },
+        "Boucheron": {
+            "quantity": "(14)"
+        },
+        "bp049-default": {
+            "quantity": "(2)"
+        },
+        "bp090-default": {
+            "quantity": "(2)"
+        },
+        "BREATH OF BERLIN": {
+            "quantity": "(4)"
+        },
+        "Brioni": {
+            "quantity": "(2)"
+        },
+        "Britney Spears": {
+            "quantity": "(1)"
+        },
+        "bruno banani": {
+            "quantity": "(42)"
+        },
+        "Bugatti": {
+            "quantity": "(5)"
+        },
+        "Bullfrog": {
+            "quantity": "(3)"
+        },
+        "BURBERRY": {
+            "quantity": "(20)"
+        },
+        "BVLGARI": {
+            "quantity": "(38)"
+        },
+        "BY ORLOV": {
+            "quantity": "(2)"
+        },
+        "By Terry": {
+            "quantity": "(3)"
+        },
+        "BYREDO": {
+            "quantity": "(42)"
+        },
+        "Béjar": {
+            "quantity": "(2)"
+        },
+        "Cacharel": {
+            "quantity": "(11)"
+        },
+        "CALVIN KLEIN": {
+            "quantity": "(28)"
+        },
+        "Camomilla": {
+            "quantity": "(2)"
+        },
+        "Captain Fawcett's": {
+            "quantity": "(3)"
+        },
+        "CARE": {
+            "quantity": "(3)"
+        },
+        "Carine Roitfeld": {
+            "quantity": "(4)"
+        },
+        "Carlo Colucci": {
+            "quantity": "(2)"
+        },
+        "Carner Barcelona": {
+            "quantity": "(22)"
+        },
+        "Carolina Herrera": {
+            "quantity": "(36)"
+        },
+        "CARON Paris": {
+            "quantity": "(1)"
+        },
+        "Cartier": {
+            "quantity": "(28)"
+        },
+        "Casamorati": {
+            "quantity": "(17)"
+        },
+        "Castle Forbes": {
+            "quantity": "(3)"
+        },
+        "Caudalie": {
+            "quantity": "(7)"
+        },
+        "Cerruti": {
+            "quantity": "(5)"
+        },
+        "CHANEL": {
+            "quantity": "(90)"
+        },
+        "Charlemagne Premium": {
+            "quantity": "(4)"
+        },
+        "Charli D’Amelio": {
+            "quantity": "(2)"
+        },
+        "Charlotte Meentzen": {
+            "quantity": "(6)"
+        },
+        "Charlotte Tilbury": {
+            "quantity": "(1)"
+        },
+        "Chaugan": {
+            "quantity": "(2)"
+        },
+        "Chloé": {
+            "quantity": "(36)"
+        },
+        "Chopard": {
+            "quantity": "(7)"
+        },
+        "Christina Aguilera": {
+            "quantity": "(15)"
+        },
+        "Clarins": {
+            "quantity": "(4)"
+        },
+        "Claus Porto": {
+            "quantity": "(7)"
+        },
+        "Clean": {
+            "quantity": "(1)"
+        },
+        "Clean Reserve": {
+            "quantity": "(9)"
+        },
+        "Clinique": {
+            "quantity": "(10)"
+        },
+        "Clive Christian": {
+            "quantity": "(22)"
+        },
+        "Clubman Pinaud": {
+            "quantity": "(2)"
+        },
+        "COACH": {
+            "quantity": "(13)"
+        },
+        "Cocunat": {
+            "quantity": "(1)"
+        },
+        "Comme des Garçons": {
+            "quantity": "(1)"
+        },
+        "Comporta Perfumes": {
+            "quantity": "(4)"
+        },
+        "Comptoir Sud Pacifique": {
+            "quantity": "(1)"
+        },
+        "CORBO": {
+            "quantity": "(1)"
+        },
+        "CORPS VOLATILS": {
+            "quantity": "(3)"
+        },
+        "Cortina 1224": {
+            "quantity": "(2)"
+        },
+        "Courreges": {
+            "quantity": "(4)"
+        },
+        "Creed": {
+            "quantity": "(44)"
+        },
+        "Cristiano Ronaldo": {
+            "quantity": "(3)"
+        },
+        "D.R. Harris": {
+            "quantity": "(27)"
+        },
+        "David Beckham": {
+            "quantity": "(15)"
+        },
+        "Davidoff": {
+            "quantity": "(24)"
+        },
+        "DEAR ROSE": {
+            "quantity": "(1)"
+        },
+        "Declaré": {
+            "quantity": "(2)"
+        },
+        "Delfy Cosmetics": {
+            "quantity": "(1)"
+        },
+        "Delisea": {
+            "quantity": "(3)"
+        },
+        "Derek Lam": {
+            "quantity": "(2)"
+        },
+        "Dermalogica": {
+            "quantity": "(1)"
+        },
+        "Dicora Urban Fit": {
+            "quantity": "(15)"
+        },
+        "Diesel": {
+            "quantity": "(16)"
+        },
+        "DIOR": {
+            "quantity": "(80)"
+        },
+        "Diptyque": {
+            "quantity": "(49)"
+        },
+        "Dita von Teese": {
+            "quantity": "(3)"
+        },
+        "DKNY": {
+            "quantity": "(16)"
+        },
+        "Doctor Eckstein": {
+            "quantity": "(1)"
+        },
+        "Dolce&Gabbana": {
+            "quantity": "(48)"
+        },
+        "Douglas": {
+            "quantity": "(3)"
+        },
+        "Douglas Collection": {
+            "quantity": "(13)"
+        },
+        "Dr. Barbara Sturm": {
+            "quantity": "(1)"
+        },
+        "Dr. C. SOLDAN": {
+            "quantity": "(1)"
+        },
+        "Dr. Susanne von Schmiedeberg": {
+            "quantity": "(1)"
+        },
+        "Dsquared2": {
+            "quantity": "(15)"
+        },
+        "Dunhill": {
+            "quantity": "(3)"
+        },
+        "D’LAV": {
+            "quantity": "(3)"
+        },
+        "E. Coudray": {
+            "quantity": "(3)"
+        },
+        "Eau de Mars": {
+            "quantity": "(6)"
+        },
+        "EIGHT & BOB": {
+            "quantity": "(15)"
+        },
+        "eilish Billie Eilish": {
+            "quantity": "(5)"
+        },
+        "Eisenberg": {
+            "quantity": "(29)"
+        },
+        "ELEMIS": {
+            "quantity": "(1)"
+        },
+        "Elie Saab": {
+            "quantity": "(12)"
+        },
+        "Elizabeth Arden": {
+            "quantity": "(22)"
+        },
+        "Ellis Brooklyn": {
+            "quantity": "(19)"
+        },
+        "Emanuel Ungaro": {
+            "quantity": "(1)"
+        },
+        "EMIL ÉLISE": {
+            "quantity": "(8)"
+        },
+        "EMMANUELLE JANE": {
+            "quantity": "(2)"
+        },
+        "Engelsrufer": {
+            "quantity": "(8)"
+        },
+        "ENRICOGI": {
+            "quantity": "(2)"
+        },
+        "ERBE": {
+            "quantity": "(6)"
+        },
+        "Escada": {
+            "quantity": "(9)"
+        },
+        "Esprit": {
+            "quantity": "(6)"
+        },
+        "Essential Parfums": {
+            "quantity": "(6)"
+        },
+        "Esteban": {
+            "quantity": "(11)"
+        },
+        "Estée Lauder": {
+            "quantity": "(41)"
+        },
+        "Etro": {
+            "quantity": "(23)"
+        },
+        "Evody": {
+            "quantity": "(16)"
+        },
+        "Evolve Organic Beauty": {
+            "quantity": "(1)"
+        },
+        "F1®": {
+            "quantity": "(10)"
+        },
+        "Faconnable": {
+            "quantity": "(1)"
+        },
+        "Fantasia": {
+            "quantity": "(9)"
+        },
+        "Farfalla": {
+            "quantity": "(16)"
+        },
+        "Farmacia SS.Annunziata": {
+            "quantity": "(20)"
+        },
+        "FARMACY": {
+            "quantity": "(1)"
+        },
+        "FAYNT": {
+            "quantity": "(6)"
+        },
+        "FILA": {
+            "quantity": "(4)"
+        },
+        "Filorga": {
+            "quantity": "(1)"
+        },
+        "Floratropia": {
+            "quantity": "(9)"
+        },
+        "Florena": {
+            "quantity": "(1)"
+        },
+        "Florence By Mills": {
+            "quantity": "(3)"
+        },
+        "Floris London": {
+            "quantity": "(18)"
+        },
+        "Furla": {
+            "quantity": "(13)"
+        },
+        "GA-DE": {
+            "quantity": "(1)"
+        },
+        "Gabriela Sabatini": {
+            "quantity": "(3)"
+        },
+        "Gainsboro": {
+            "quantity": "(2)"
+        },
+        "Gant": {
+            "quantity": "(2)"
+        },
+        "Gas Bijoux": {
+            "quantity": "(1)"
+        },
+        "Gentlehead": {
+            "quantity": "(1)"
+        },
+        "Geo. F. Trumper": {
+            "quantity": "(8)"
+        },
+        "Giardino Benessere": {
+            "quantity": "(28)"
+        },
+        "Giorgio Beverly Hills": {
+            "quantity": "(1)"
+        },
+        "Gisada": {
+            "quantity": "(14)"
+        },
+        "gisou": {
+            "quantity": "(2)"
+        },
+        "Gitano": {
+            "quantity": "(5)"
+        },
+        "Givenchy": {
+            "quantity": "(49)"
+        },
+        "Glamfume": {
+            "quantity": "(4)"
+        },
+        "Glamour & Heels": {
+            "quantity": "(1)"
+        },
+        "GOLDFIELD+BANKS": {
+            "quantity": "(14)"
+        },
+        "GOOD Water Perfume": {
+            "quantity": "(3)"
+        },
+        "Graham Hill": {
+            "quantity": "(1)"
+        },
+        "Gravel": {
+            "quantity": "(7)"
+        },
+        "Gres": {
+            "quantity": "(3)"
+        },
+        "GRITTI": {
+            "quantity": "(39)"
+        },
+        "Grown Alchemist": {
+            "quantity": "(1)"
+        },
+        "Gucci": {
+            "quantity": "(47)"
+        },
+        "Guerlain": {
+            "quantity": "(84)"
+        },
+        "Guess": {
+            "quantity": "(20)"
+        },
+        "Guy Laroche": {
+            "quantity": "(4)"
+        },
+        "Hagi Cosmetics": {
+            "quantity": "(3)"
+        },
+        "Halloween": {
+            "quantity": "(11)"
+        },
+        "Halston": {
+            "quantity": "(4)"
+        },
+        "hej:pure": {
+            "quantity": "(6)"
+        },
+        "Helene Fischer": {
+            "quantity": "(3)"
+        },
+        "Heretic parfum": {
+            "quantity": "(3)"
+        },
+        "HERMÈS": {
+            "quantity": "(72)"
+        },
+        "Hersip": {
+            "quantity": "(2)"
+        },
+        "HILDEGARD BRAUKMANN": {
+            "quantity": "(3)"
+        },
+        "Histoire De Parfums": {
+            "quantity": "(7)"
+        },
+        "HISTOIRES DE PARFUMS": {
+            "quantity": "(8)"
+        },
+        "Hollister": {
+            "quantity": "(15)"
+        },
+        "HOUBIGANT": {
+            "quantity": "(18)"
+        },
+        "Hristo Stoitchkov": {
+            "quantity": "(2)"
+        },
+        "Hugh Parsons": {
+            "quantity": "(2)"
+        },
+        "Hugo Boss": {
+            "quantity": "(59)"
+        },
+        "I Profumi di d´Annunzio": {
+            "quantity": "(4)"
+        },
+        "Iceberg": {
+            "quantity": "(7)"
+        },
+        "IDA WARG Beauty": {
+            "quantity": "(4)"
+        },
+        "Ideo": {
+            "quantity": "(4)"
+        },
+        "Ignacio Figueras": {
+            "quantity": "(1)"
+        },
+        "ILK": {
+            "quantity": "(5)"
+        },
+        "Imperial Barber Products": {
+            "quantity": "(1)"
+        },
+        "Initio": {
+            "quantity": "(14)"
+        },
+        "Instituto Español": {
+            "quantity": "(9)"
+        },
+        "Irisch Moos": {
+            "quantity": "(3)"
+        },
+        "Issey Miyake": {
+            "quantity": "(39)"
+        },
+        "Jack Black": {
+            "quantity": "(3)"
+        },
+        "Jacomo": {
+            "quantity": "(5)"
+        },
+        "Jacques Zolty": {
+            "quantity": "(11)"
+        },
+        "Jaguar": {
+            "quantity": "(15)"
+        },
+        "Jardin Bohème": {
+            "quantity": "(32)"
+        },
+        "JARDIN DE FRANCE": {
+            "quantity": "(8)"
+        },
+        "Jean Couturier": {
+            "quantity": "(5)"
+        },
+        "Jean Patou": {
+            "quantity": "(1)"
+        },
+        "Jean Paul Gaultier": {
+            "quantity": "(27)"
+        },
+        "Jean&Len": {
+            "quantity": "(3)"
+        },
+        "Jean-Charles Brosseau": {
+            "quantity": "(13)"
+        },
+        "Jean-Louis Scherrer": {
+            "quantity": "(1)"
+        },
+        "Jesus del Pozo": {
+            "quantity": "(5)"
+        },
+        "Jette": {
+            "quantity": "(2)"
+        },
+        "Jil Sander": {
+            "quantity": "(29)"
+        },
+        "Jimmy Choo": {
+            "quantity": "(25)"
+        },
+        "Jo Malone London": {
+            "quantity": "(48)"
+        },
+        "John Varvatos": {
+            "quantity": "(5)"
+        },
+        "JOOP!": {
+            "quantity": "(12)"
+        },
+        "Jovan": {
+            "quantity": "(10)"
+        },
+        "Juicy Couture": {
+            "quantity": "(11)"
+        },
+        "Juliette Has a Gun": {
+            "quantity": "(28)"
+        },
+        "Juniper Lane": {
+            "quantity": "(2)"
+        },
+        "Kajal Perfumes Paris": {
+            "quantity": "(8)"
+        },
+        "Karl Kani": {
+            "quantity": "(6)"
+        },
+        "Karl Lagerfeld": {
+            "quantity": "(16)"
+        },
+        "Keiko Mecheri": {
+            "quantity": "(9)"
+        },
+        "KENZO": {
+            "quantity": "(44)"
+        },
+        "Kerzon": {
+            "quantity": "(4)"
+        },
+        "Kiehl’s": {
+            "quantity": "(3)"
+        },
+        "Kilian": {
+            "quantity": "(94)"
+        },
+        "Knize": {
+            "quantity": "(17)"
+        },
+        "Korloff": {
+            "quantity": "(15)"
+        },
+        "KORRES": {
+            "quantity": "(20)"
+        },
+        "Kristel Saint Martin": {
+            "quantity": "(2)"
+        },
+        "L`Atelier Parfum": {
+            "quantity": "(17)"
+        },
+        "La Martina": {
+            "quantity": "(1)"
+        },
+        "Label Perfumes": {
+            "quantity": "(9)"
+        },
+        "Laboratorio Olfattivo": {
+            "quantity": "(34)"
+        },
+        "Laboratory Perfumes": {
+            "quantity": "(4)"
+        },
+        "Lacoste": {
+            "quantity": "(19)"
+        },
+        "Lalique": {
+            "quantity": "(28)"
+        },
+        "Lancôme": {
+            "quantity": "(47)"
+        },
+        "LANOE": {
+            "quantity": "(1)"
+        },
+        "Lanvin": {
+            "quantity": "(7)"
+        },
+        "Larry King Haircare": {
+            "quantity": "(1)"
+        },
+        "Laura Biagiotti": {
+            "quantity": "(24)"
+        },
+        "Laura Mercier": {
+            "quantity": "(7)"
+        },
+        "Le Couvent Maison De Parfum": {
+            "quantity": "(28)"
+        },
+        "LE GALION": {
+            "quantity": "(8)"
+        },
+        "Lengling Munich": {
+            "quantity": "(36)"
+        },
+        "Leonard": {
+            "quantity": "(1)"
+        },
+        "Les Liquides Imaginaires": {
+            "quantity": "(19)"
+        },
+        "Lesquendieu": {
+            "quantity": "(3)"
+        },
+        "LINARI": {
+            "quantity": "(9)"
+        },
+        "Liquides Imaginaires": {
+            "quantity": "(4)"
+        },
+        "Lomani": {
+            "quantity": "(3)"
+        },
+        "LOOKS by Wolfgang Joop": {
+            "quantity": "(3)"
+        },
+        "LORENZO VILLORESI": {
+            "quantity": "(5)"
+        },
+        "L’Occitane": {
+            "quantity": "(13)"
+        },
+        "M.Micallef": {
+            "quantity": "(4)"
+        },
+        "Maison Francis Kurkdjian Paris": {
+            "quantity": "(56)"
+        },
+        "Maison Margiela": {
+            "quantity": "(19)"
+        },
+        "Maison Matine": {
+            "quantity": "(11)"
+        },
+        "Maison Micallef": {
+            "quantity": "(21)"
+        },
+        "MAISON NOIR": {
+            "quantity": "(6)"
+        },
+        "Maison Rebatchi": {
+            "quantity": "(5)"
+        },
+        "Maison Tahité": {
+            "quantity": "(14)"
+        },
+        "Mandarina Duck": {
+            "quantity": "(3)"
+        },
+        "Marbert": {
+            "quantity": "(17)"
+        },
+        "Marc Jacobs": {
+            "quantity": "(18)"
+        },
+        "Marcelle Dormoy": {
+            "quantity": "(3)"
+        },
+        "MARCOCCIA PROFUMI": {
+            "quantity": "(7)"
+        },
+        "Margot & Tita": {
+            "quantity": "(48)"
+        },
+        "Marina Hoermanseder": {
+            "quantity": "(2)"
+        },
+        "Mark Buxton Perfumes": {
+            "quantity": "(12)"
+        },
+        "Martina Gebhardt Naturkosmetik": {
+            "quantity": "(1)"
+        },
+        "Marvel": {
+            "quantity": "(1)"
+        },
+        "Mauboussin": {
+            "quantity": "(2)"
+        },
+        "Mavemade": {
+            "quantity": "(8)"
+        },
+        "MBR Medical Beauty Research": {
+            "quantity": "(1)"
+        },
+        "MCM": {
+            "quantity": "(8)"
+        },
+        "Meißner Tremonia": {
+            "quantity": "(9)"
+        },
+        "Memo Paris": {
+            "quantity": "(38)"
+        },
+        "Memoize London": {
+            "quantity": "(24)"
+        },
+        "MERCEDES-BENZ PARFUMS": {
+            "quantity": "(26)"
+        },
+        "Mexx": {
+            "quantity": "(36)"
+        },
+        "Michael Kors": {
+            "quantity": "(6)"
+        },
+        "Michael Michalsky": {
+            "quantity": "(14)"
+        },
+        "Microcell": {
+            "quantity": "(1)"
+        },
+        "Milano Fragranze": {
+            "quantity": "(10)"
+        },
+        "Miller Harris": {
+            "quantity": "(33)"
+        },
+        "Miro": {
+            "quantity": "(5)"
+        },
+        "Missguided": {
+            "quantity": "(7)"
+        },
+        "Miu Miu": {
+            "quantity": "(2)"
+        },
+        "Mizensir": {
+            "quantity": "(13)"
+        },
+        "MOHI Hair Care": {
+            "quantity": "(1)"
+        },
+        "Molinard": {
+            "quantity": "(20)"
+        },
+        "Molton Brown": {
+            "quantity": "(52)"
+        },
+        "MONCLER": {
+            "quantity": "(12)"
+        },
+        "Montana": {
+            "quantity": "(4)"
+        },
+        "Montblanc": {
+            "quantity": "(20)"
+        },
+        "Moresque": {
+            "quantity": "(16)"
+        },
+        "Morgan's": {
+            "quantity": "(2)"
+        },
+        "Moschino": {
+            "quantity": "(14)"
+        },
+        "MUGLER": {
+            "quantity": "(23)"
+        },
+        "Mukti Organics": {
+            "quantity": "(1)"
+        },
+        "Murdock London": {
+            "quantity": "(3)"
+        },
+        "Musgo Real": {
+            "quantity": "(1)"
+        },
+        "MUSICOLOGY": {
+            "quantity": "(7)"
+        },
+        "MyClarins": {
+            "quantity": "(1)"
+        },
+        "N.C.P. Olfactives": {
+            "quantity": "(14)"
+        },
+        "Naomi Campbell": {
+            "quantity": "(13)"
+        },
+        "Naomi Jon": {
+            "quantity": "(3)"
+        },
+        "Narciso Rodriguez": {
+            "quantity": "(37)"
+        },
+        "Nesti Dante Firenze": {
+            "quantity": "(5)"
+        },
+        "NIKOS SCULPTURE": {
+            "quantity": "(2)"
+        },
+        "Nina Ricci": {
+            "quantity": "(5)"
+        },
+        "Nina von Sighn": {
+            "quantity": "(1)"
+        },
+        "NISHANE": {
+            "quantity": "(30)"
+        },
+        "NIVEA": {
+            "quantity": "(8)"
+        },
+        "NOBILE 1942": {
+            "quantity": "(3)"
+        },
+        "NOEME": {
+            "quantity": "(5)"
+        },
+        "Nonchalance": {
+            "quantity": "(3)"
+        },
+        "Nuage": {
+            "quantity": "(1)"
+        },
+        "NUXE": {
+            "quantity": "(4)"
+        },
+        "OAK": {
+            "quantity": "(2)"
+        },
+        "Odin": {
+            "quantity": "(2)"
+        },
+        "OFFICINE DEL PROFUMO": {
+            "quantity": "(1)"
+        },
+        "Oilily": {
+            "quantity": "(3)"
+        },
+        "OLFACTIVE STUDIO": {
+            "quantity": "(14)"
+        },
+        "Olibere Paris": {
+            "quantity": "(1)"
+        },
+        "oLiente": {
+            "quantity": "(7)"
+        },
+        "Onyrico": {
+            "quantity": "(10)"
+        },
+        "ORLOV Paris": {
+            "quantity": "(8)"
+        },
+        "Ormaie": {
+            "quantity": "(18)"
+        },
+        "Oscar De La Renta": {
+            "quantity": "(10)"
+        },
+        "Otto Kern": {
+            "quantity": "(19)"
+        },
+        "Ouai": {
+            "quantity": "(3)"
+        },
+        "Pacifica": {
+            "quantity": "(13)"
+        },
+        "Paco Rabanne": {
+            "quantity": "(42)"
+        },
+        "Palmaria Mallorca": {
+            "quantity": "(4)"
+        },
+        "Paloma Picasso": {
+            "quantity": "(1)"
+        },
+        "Parfums de Marly": {
+            "quantity": "(36)"
+        },
+        "Payot": {
+            "quantity": "(1)"
+        },
+        "Pepe Jeans": {
+            "quantity": "(1)"
+        },
+        "Percy Nobleman": {
+            "quantity": "(1)"
+        },
+        "Perris Monte Carlo": {
+            "quantity": "(46)"
+        },
+        "Perris Swiss Laboratory": {
+            "quantity": "(1)"
+        },
+        "pH fragrances": {
+            "quantity": "(9)"
+        },
+        "PHILIPP PLEIN": {
+            "quantity": "(7)"
+        },
+        "PIERRE GUILLAUME": {
+            "quantity": "(2)"
+        },
+        "Pineider": {
+            "quantity": "(8)"
+        },
+        "Pino Silvestre": {
+            "quantity": "(3)"
+        },
+        "Pixi": {
+            "quantity": "(2)"
+        },
+        "Playboy": {
+            "quantity": "(4)"
+        },
+        "Police": {
+            "quantity": "(24)"
+        },
+        "Porsche Design": {
+            "quantity": "(23)"
+        },
+        "Poseidon": {
+            "quantity": "(4)"
+        },
+        "Prada": {
+            "quantity": "(31)"
+        },
+        "PREMIERE NOTE": {
+            "quantity": "(1)"
+        },
+        "Primavera": {
+            "quantity": "(9)"
+        },
+        "PRORASO": {
+            "quantity": "(5)"
+        },
+        "Purelei": {
+            "quantity": "(1)"
+        },
+        "Ralph Lauren": {
+            "quantity": "(18)"
+        },
+        "Rancé": {
+            "quantity": "(17)"
+        },
+        "REPHA Biologische Arzneimittel": {
+            "quantity": "(1)"
+        },
+        "Rephase": {
+            "quantity": "(2)"
+        },
+        "REVOLUTION": {
+            "quantity": "(5)"
+        },
+        "RICHOULI": {
+            "quantity": "(6)"
+        },
+        "Rituals": {
+            "quantity": "(15)"
+        },
+        "Robert Piguet": {
+            "quantity": "(6)"
+        },
+        "Roberto Cavalli": {
+            "quantity": "(4)"
+        },
+        "ROBERTO UGOLINI": {
+            "quantity": "(11)"
+        },
+        "Rochas": {
+            "quantity": "(7)"
+        },
+        "Roger & Gallet": {
+            "quantity": "(18)"
+        },
+        "Roos & Roos": {
+            "quantity": "(8)"
+        },
+        "Rosendo Mateu": {
+            "quantity": "(8)"
+        },
+        "Rouge Bunny Rouge": {
+            "quantity": "(1)"
+        },
+        "Route 66": {
+            "quantity": "(5)"
+        },
+        "S. Strikes The Notes": {
+            "quantity": "(6)"
+        },
+        "s.Oliver": {
+            "quantity": "(68)"
+        },
+        "Salvatore Ferragamo": {
+            "quantity": "(23)"
+        },
+        "Sana Jardin Paris": {
+            "quantity": "(22)"
+        },
+        "Saponificio Varesino": {
+            "quantity": "(7)"
+        },
+        "SAVE BRAVE": {
+            "quantity": "(2)"
+        },
+        "Scents Of Arabia": {
+            "quantity": "(9)"
+        },
+        "Scotch & Soda": {
+            "quantity": "(2)"
+        },
+        "Scottish Fine Soaps": {
+            "quantity": "(3)"
+        },
+        "sebamed": {
+            "quantity": "(1)"
+        },
+        "sen7": {
+            "quantity": "(7)"
+        },
+        "SENSAI": {
+            "quantity": "(2)"
+        },
+        "Serge Lutens": {
+            "quantity": "(20)"
+        },
+        "SG79STHLM": {
+            "quantity": "(7)"
+        },
+        "Shay & Blue": {
+            "quantity": "(36)"
+        },
+        "Shiseido": {
+            "quantity": "(8)"
+        },
+        "Simimi": {
+            "quantity": "(3)"
+        },
+        "SIMONE ANDREOLI": {
+            "quantity": "(12)"
+        },
+        "Sisley": {
+            "quantity": "(17)"
+        },
+        "SISTERS AROMA": {
+            "quantity": "(4)"
+        },
+        "SNIP A MAN": {
+            "quantity": "(1)"
+        },
+        "Sober": {
+            "quantity": "(4)"
+        },
+        "SOLINOTES": {
+            "quantity": "(23)"
+        },
+        "Sora Dora": {
+            "quantity": "(8)"
+        },
+        "Speick Naturkosmetik": {
+            "quantity": "(4)"
+        },
+        "SPPC Paris Bleu Parfums": {
+            "quantity": "(12)"
+        },
+        "Starck": {
+            "quantity": "(3)"
+        },
+        "State of Mind": {
+            "quantity": "(35)"
+        },
+        "Stephane Humbert Lucas": {
+            "quantity": "(1)"
+        },
+        "Stichfrei": {
+            "quantity": "(1)"
+        },
+        "Stories Parfums": {
+            "quantity": "(5)"
+        },
+        "Strenesse": {
+            "quantity": "(1)"
+        },
+        "SuperDry": {
+            "quantity": "(1)"
+        },
+        "Sven Strasser": {
+            "quantity": "(4)"
+        },
+        "Tabac": {
+            "quantity": "(21)"
+        },
+        "TALK!": {
+            "quantity": "(5)"
+        },
+        "Taylor of Old Bond Street": {
+            "quantity": "(11)"
+        },
+        "Teaology": {
+            "quantity": "(4)"
+        },
+        "Terrorists Of Beauty": {
+            "quantity": "(1)"
+        },
+        "The Body Shop": {
+            "quantity": "(2)"
+        },
+        "The Different Company": {
+            "quantity": "(2)"
+        },
+        "THE GIFT LABEL": {
+            "quantity": "(1)"
+        },
+        "The Hairoine Company": {
+            "quantity": "(1)"
+        },
+        "The Handmade Soap": {
+            "quantity": "(2)"
+        },
+        "THE HOUSE OF OUD": {
+            "quantity": "(4)"
+        },
+        "THE MERCHANT OF VENICE": {
+            "quantity": "(37)"
+        },
+        "The Ordinary": {
+            "quantity": "(1)"
+        },
+        "The Organic Pharmacy": {
+            "quantity": "(1)"
+        },
+        "Tiffany & Co.": {
+            "quantity": "(9)"
+        },
+        "tigha": {
+            "quantity": "(2)"
+        },
+        "Tiziana Terenzi": {
+            "quantity": "(43)"
+        },
+        "Tom Daxon": {
+            "quantity": "(7)"
+        },
+        "TOM FORD": {
+            "quantity": "(67)"
+        },
+        "Tom Tailor": {
+            "quantity": "(15)"
+        },
+        "Tommy Hilfiger": {
+            "quantity": "(9)"
+        },
+        "Toni Gard": {
+            "quantity": "(11)"
+        },
+        "Tonino Lamborghini": {
+            "quantity": "(2)"
+        },
+        "Tosca": {
+            "quantity": "(3)"
+        },
+        "Tous": {
+            "quantity": "(5)"
+        },
+        "TRUEFITT & HILL": {
+            "quantity": "(6)"
+        },
+        "Trussardi": {
+            "quantity": "(26)"
+        },
+        "U BEAUTY": {
+            "quantity": "(1)"
+        },
+        "Une Nuit Nomade": {
+            "quantity": "(2)"
+        },
+        "UNIQ": {
+            "quantity": "(1)"
+        },
+        "URBAN SCENTS": {
+            "quantity": "(7)"
+        },
+        "UÈRMÌ": {
+            "quantity": "(3)"
+        },
+        "V CANTO": {
+            "quantity": "(12)"
+        },
+        "Valentino": {
+            "quantity": "(22)"
+        },
+        "VALJUES": {
+            "quantity": "(9)"
+        },
+        "Van Cleef & Arpels": {
+            "quantity": "(14)"
+        },
+        "Venezia 1920": {
+            "quantity": "(2)"
+        },
+        "Versace": {
+            "quantity": "(47)"
+        },
+        "Vichy": {
+            "quantity": "(2)"
+        },
+        "Victorinox": {
+            "quantity": "(15)"
+        },
+        "Viktor&Rolf": {
+            "quantity": "(18)"
+        },
+        "Village": {
+            "quantity": "(6)"
+        },
+        "VOLNAY": {
+            "quantity": "(3)"
+        },
+        "VOLUSPA": {
+            "quantity": "(1)"
+        },
+        "Wakeup Cosmetics": {
+            "quantity": "(3)"
+        },
+        "Weleda": {
+            "quantity": "(1)"
+        },
+        "Wilgermain": {
+            "quantity": "(6)"
+        },
+        "Women'Secret": {
+            "quantity": "(4)"
+        },
+        "XERJOFF": {
+            "quantity": "(86)"
+        },
+        "Yves de Sistelle": {
+            "quantity": "(8)"
+        },
+        "Yves Rocher": {
+            "quantity": "(18)"
+        },
+        "Yves Saint Laurent": {
+            "quantity": "(61)"
+        },
+        "YVRA": {
+            "quantity": "(10)"
+        },
+        "Zadig&Voltaire": {
+            "quantity": "(15)"
+        },
+        "Zarkoperfume": {
+            "quantity": "(25)"
+        },
+        "Zilli": {
+            "quantity": "(4)"
+        }
+    },
+    "Duftnote": {
+        "blumig": {
+            "quantity": "(1577)"
+        },
+        "holzig": {
+            "quantity": "(1203)"
+        },
+        "orientalisch": {
+            "quantity": "(657)"
+        },
+        "fruchtig": {
+            "quantity": "(588)"
+        },
+        "frisch": {
+            "quantity": "(599)"
+        },
+        "aromatisch": {
+            "quantity": "(510)"
+        },
+        "würzig": {
+            "quantity": "(459)"
+        },
+        "zitrisch": {
+            "quantity": "(324)"
+        },
+        "grün": {
+            "quantity": "(116)"
+        },
+        "aquatisch": {
+            "quantity": "(112)"
+        },
+        "süß": {
+            "quantity": "(114)"
+        },
+        "pudrig": {
+            "quantity": "(83)"
+        },
+        "cremig": {
+            "quantity": "(68)"
+        },
+        "ledrig": {
+            "quantity": "(63)"
+        },
+        "moosig": {
+            "quantity": "(38)"
+        },
+        "klassisch": {
+            "quantity": "(31)"
+        },
+        "exotisch": {
+            "quantity": "(44)"
+        },
+        "erdig": {
+            "quantity": "(32)"
+        },
+        "rauchig": {
+            "quantity": "(19)"
+        },
+        "sportlich": {
+            "quantity": "(20)"
+        }
+    },
+    "Produktmerkmal": {
+        "phthalaten-frei": {
+            "quantity": "(1503)"
+        },
+        "parabenfrei": {
+            "quantity": "(1507)"
+        },
+        "vegan": {
+            "quantity": "(1488)"
+        },
+        "paraffinfrei": {
+            "quantity": "(1455)"
+        },
+        "silikonfrei": {
+            "quantity": "(1442)"
+        },
+        "laktosefrei": {
+            "quantity": "(1426)"
+        },
+        "acetonfrei": {
+            "quantity": "(1421)"
+        },
+        "glutenfrei": {
+            "quantity": "(1429)"
+        },
+        "sulfatfrei": {
+            "quantity": "(1406)"
+        },
+        "amoniakfrei": {
+            "quantity": "(1400)"
+        },
+        "für sensible Haut geeignet": {
+            "quantity": "(1402)"
+        },
+        "palmöl-frei": {
+            "quantity": "(1352)"
+        },
+        "ohne Nussspuren": {
+            "quantity": "(1378)"
+        },
+        "komedogen-frei": {
+            "quantity": "(1346)"
+        },
+        "mikroplastik-frei": {
+            "quantity": "(1370)"
+        },
+        "ohne ölige Inhaltsstoffe": {
+            "quantity": "(1259)"
+        },
+        "pigment- und farbstoff-frei": {
+            "quantity": "(942)"
+        },
+        "konservierungsstoff-frei": {
+            "quantity": "(547)"
+        },
+        "tierversuchsfrei": {
+            "quantity": "(255)"
+        },
+        "Clean Beauty": {
+            "quantity": "(234)"
+        },
+        "nachhaltige Verpackung": {
+            "quantity": "(78)"
+        },
+        "alkoholfrei": {
+            "quantity": "(43)"
+        },
+        "latexfrei": {
+            "quantity": "(22)"
+        },
+        "allergen-frei": {
+            "quantity": "(27)"
+        },
+        "ohne Aluminiumsalze": {
+            "quantity": "(27)"
+        },
+        "adenosinfrei": {
+            "quantity": "(16)"
+        },
+        "recyclebare Verpackung": {
+            "quantity": "(12)"
+        },
+        "recycelte Verpackung": {
+            "quantity": "(10)"
+        },
+        "100% Natürliche Inhaltsstoffe": {
+            "quantity": "(18)"
+        },
+        "Antioxidantien": {
+            "quantity": "(11)"
+        },
+        "nickelfrei": {
+            "quantity": "(10)"
+        },
+        "ohne Gentechnik": {
+            "quantity": "(9)"
+        },
+        "ohne Süßstoffe": {
+            "quantity": "(9)"
+        },
+        "Frei von chemischen Inhaltsstoffen": {
+            "quantity": "(10)"
+        },
+        "Zertifizierte Naturkosmetik": {
+            "quantity": "(8)"
+        },
+        "recyclebar": {
+            "quantity": "(5)"
+        },
+        "parfümfrei": {
+            "quantity": "(3)"
+        },
+        "fermentierte Inhaltsstoffe": {
+            "quantity": "(1)"
+        },
+        "für empfindliche Augen": {
+            "quantity": "(1)"
+        },
+        "ph-Neutral": {
+            "quantity": "(1)"
+        }
+    },
+    "Für Wen": {
+        "Männlich": {
+            "quantity": "(1289)"
+        },
+        "Unisex": {
+            "quantity": "(3393)"
+        },
+        "Weiblich": {
+            "quantity": "(1610)"
+        }
+    },
+    "Geschenk für": {
+        "Valentinstag": {
+            "quantity": "(2757)"
+        },
+        "Geburtstag": {
+            "quantity": "(828)"
+        },
+        "Dankeschön": {
+            "quantity": "(119)"
+        },
+        "Jahrestag": {
+            "quantity": "(19)"
+        },
+        "Einweihung": {
+            "quantity": "(1)"
+        },
+        "Hochzeit": {
+            "quantity": "(1)"
+        }
+    },
+    "Anwendungsbereich": {
+        "Körper": {
+            "quantity": "(1728)"
+        },
+        "Hals": {
+            "quantity": "(872)"
+        },
+        "Haare": {
+            "quantity": "(573)"
+        },
+        "Dekolleté": {
+            "quantity": "(387)"
+        },
+        "Arme": {
+            "quantity": "(123)"
+        },
+        "Gesicht": {
+            "quantity": "(146)"
+        },
+        "Hände": {
+            "quantity": "(53)"
+        },
+        "Badezimmer": {
+            "quantity": "(22)"
+        },
+        "Wohnzimmer": {
+            "quantity": "(16)"
+        },
+        "Schlafzimmer": {
+            "quantity": "(14)"
+        },
+        "Esszimmer": {
+            "quantity": "(4)"
+        },
+        "Kinn": {
+            "quantity": "(4)"
+        },
+        "Augenbrauen": {
+            "quantity": "(1)"
+        },
+        "Lippen": {
+            "quantity": "(3)"
+        },
+        "Küche": {
+            "quantity": "(1)"
+        },
+        "Flur": {
+            "quantity": "(1)"
+        },
+        "Garten": {
+            "quantity": "(1)"
+        },
+        "Kopfhaut": {
+            "quantity": "(1)"
+        },
+        "Nase": {
+            "quantity": "(1)"
+        },
+        "Nägel": {
+            "quantity": "(1)"
+        },
+        "Ohren": {
+            "quantity": "(1)"
+        },
+        "Wimpern": {
+            "quantity": "(1)"
+        }
+    },
+    "Highlights": {
+        "Sale": {
+            "quantity": "(1535)"
+        },
+        "NEU": {
+            "quantity": "(425)"
+        },
+        "Limitiert": {
+            "quantity": "(439)"
+        },
+        "Angebot": {
+            "quantity": "(148)"
+        },
+        "+ Geschenk": {
+            "quantity": "(149)"
+        },
+        "Dermakosmetik": {
+            "quantity": "(1)"
+        }
+    }
+}
